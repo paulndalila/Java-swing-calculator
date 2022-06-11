@@ -174,7 +174,7 @@ public class Calculator {
 		lblNewLabel.setBounds(10, 11, 280, 42);
 		frmCalculator.getContentPane().add(lblNewLabel);
 		
-		JLabel lblNewLabel_1 = new JLabel("Paul is awesome at programming!");
+		JLabel lblNewLabel_1 = new JLabel("Java is cool!");
 		lblNewLabel_1.setFont(new Font("Tahoma", Font.ITALIC, 11));
 		lblNewLabel_1.setHorizontalAlignment(SwingConstants.CENTER);
 		lblNewLabel_1.setBounds(10, 131, 391, 23);
