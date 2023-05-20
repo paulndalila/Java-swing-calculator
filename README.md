@@ -1,2 +1,4 @@
-# calculator-repo
- This is a calculator that I made using Java Swing
+# Java Swing Calculator
+ Simple calculator repo
+ Language: Java
+ Library: Java swing
