@@ -1,4 +1,6 @@
 # Java Swing Calculator
  Simple calculator repo
- Language: Java
- Library: Java swing
+  <p><b>Language:</b> Java</p>
+  <p><b>Library:</b> Java swing</p>
+ 
+ 
